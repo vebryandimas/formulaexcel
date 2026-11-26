@@ -4,7 +4,7 @@ Kamus formula dan template **Excel / WPS Office** siap pakai untuk perkantoran, 
 
 ## Isi
 
-Semua ada dalam satu file: [`Formula-A-Z.xlsx`](Formula-A-Z.xlsx) (12 sheet, sekitar 1.700 rumus).
+Semua ada dalam satu file: [`Formula-A-Z.xlsx`](FORMULA.xlsx) (12 sheet, sekitar 1.700 rumus).
 
 | Sheet | Kegunaan |
 |---|---|
